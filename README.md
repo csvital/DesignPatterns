@@ -16,7 +16,7 @@ Basic examples
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
-- [ ] Memento
+- [x] Memento
 - [ ] Observer
 - [ ] State
 - [ ] Strategy
