@@ -2,20 +2,13 @@
 Basic examples
 
 ### Creational Patterns
+- [ ] Singleton
+- [x] Factory
+- [ ] Factory Method
 - [ ] Abstract Factory
 - [ ] Builder
-- [x] Factory Method
 - [ ] Prototype
-- [ ] Singleton
-
-### Structural Patterns
-- [ ] Adapter 
-- [ ] Bridge
-- [ ] Composite
-- [ ] Decorator
-- [ ] Facade
-- [ ] Flyweight
-- [ ] Proxy
+- [ ] Object Pool
 
 ### Behavioral Patterns
 - [ ] Chain of Responsibility
@@ -29,4 +22,13 @@ Basic examples
 - [ ] Strategy
 - [ ] Template Method
 - [ ] Visitor
+- [ ] Null Object
 
+### Structural Patterns
+- [ ] Adapter 
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
