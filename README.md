@@ -17,7 +17,7 @@ Basic examples
 - [ ] Iterator
 - [ ] Mediator
 - [x] Memento
-- [ ] Observer
+- [x] Observer
 - [ ] State
 - [ ] Strategy
 - [ ] Template Method
