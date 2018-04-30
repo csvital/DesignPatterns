@@ -31,4 +31,4 @@ Basic examples
 - [ ] Decorator
 - [ ] Facade
 - [ ] Flyweight
-- [ ] Proxy
+- [x] Proxy
